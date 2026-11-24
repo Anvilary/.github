@@ -127,7 +127,7 @@ The current Anvilary-owned software in these projects is offered under the **Pol
 - [RoadForge](https://github.com/Anvilary/RoadForge/blob/main/LICENSE)
 - [CVForge](https://github.com/Anvilary/CVForge/blob/main/LICENSE)
 - [OdyTor](https://github.com/Anvilary/Odytor/blob/main/LICENSE)
-- [Workbench](https://github.com/Anvilary/Workbench/blob/main/LICENSE) (Anvilary-owned additions and modifications)
+- [Workbench](https://github.com/Anvilary/Workbench/blob/main/LICENSE)
 
 PolyForm Noncommercial permits the uses defined in its terms, but does **not** authorize commercial use of the covered Anvilary code. It is source-available, **not** an OSI-approved open-source license.
 
