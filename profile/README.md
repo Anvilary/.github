@@ -37,7 +37,7 @@ Start without an account, collaborate with teammates when needed, and connect co
 
 **Build. Analyze. Improve.**
 
-CVForge is a free, open-source CV builder and ATS-style analyzer designed around privacy, transparency, and document ownership.
+CVForge is a free, source-available CV builder and ATS-style analyzer designed around privacy, transparency, and document ownership.
 
 Create professional resumes through structured editing and live PDF previews. Analyze document quality with transparent, deterministic scoring, and preserve editable CV sessions through portable JSON backups or compatible CVForge-generated PDFs.
 
@@ -50,7 +50,7 @@ Document processing runs locally in your browser, without requiring an account, 
 
 **Explore:** [Live Application](https://cvforge.anvilary.tools) · [Source & Documentation](https://github.com/Anvilary/CVForge) · [Product Demonstration](https://github.com/Anvilary/CVForge/issues/4)
 
-**License:** MIT
+**License:** PolyForm Noncommercial 1.0.0
 
 ---
 
@@ -92,7 +92,7 @@ A dedicated terminal supervisor helps preserve running processes across desktop 
 
 **Explore:** [Source & Documentation](https://github.com/Anvilary/Workbench) · [Product Demonstration](https://github.com/Anvilary/Workbench/issues/32)
 
-**License:** MIT
+**License:** PolyForm Noncommercial 1.0.0 (Anvilary code; see upstream MIT terms for Workbench)
 
 ---
 
@@ -120,19 +120,20 @@ Document capabilities, limitations, licensing, and deployment requirements accur
 
 ---
 
-## Open Source & Source Availability
+## Licensing & Source Availability
 
-Anvilary Tools develops projects under different software licenses.
+The current Anvilary-owned software in these projects is offered under the **PolyForm Noncommercial License 1.0.0**:
 
-**Open Source (MIT):**
-- [CVForge](https://github.com/Anvilary/CVForge)
-- [Workbench](https://github.com/Anvilary/Workbench)
+- [RoadForge](https://github.com/Anvilary/RoadForge/blob/main/LICENSE)
+- [CVForge](https://github.com/Anvilary/CVForge/blob/main/LICENSE)
+- [OdyTor](https://github.com/Anvilary/Odytor/blob/main/LICENSE)
+- [Workbench](https://github.com/Anvilary/Workbench/blob/main/LICENSE) (Anvilary-owned additions and modifications)
 
-**Source-Available (PolyForm Noncommercial 1.0.0):**
-- [RoadForge](https://github.com/Anvilary/RoadForge)
-- [OdyTor](https://github.com/Anvilary/Odytor)
+PolyForm Noncommercial permits the uses defined in its terms, but does **not** authorize commercial use of the covered Anvilary code. It is source-available, **not** an OSI-approved open-source license.
 
-PolyForm Noncommercial is not an OSI-approved open-source license. Each repository contains its applicable license, documentation, and usage requirements.
+Previously published MIT-licensed versions of CVForge and Workbench retain their original licensing rights. Workbench also includes original Agent Workbench code independently licensed under MIT; its notice and permissions are preserved in [LICENSE.UPSTREAM](https://github.com/Anvilary/Workbench/blob/main/LICENSE.UPSTREAM). Third-party components retain their own licenses.
+
+For exact terms, scope, exceptions, and release availability, consult each project's license and documentation.
 
 ---
 
